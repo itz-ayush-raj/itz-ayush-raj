@@ -1,5 +1,5 @@
 -  Hi, I’m @itz-ayush-raj
--  I’m interested in Programming
+-  I’m interested in Programming Languages
 -  I’m currently learning Java Script
 
 <!---
